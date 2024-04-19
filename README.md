@@ -12,6 +12,10 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
+
+# Decription
+主要看src/app/shared/services/electron.service.ts和 app/main.ts app/dialog.ts
+
 # Introduction
 
 Bootstrap and package your project with Angular 14 and Electron 19 (Typescript + SASS + Hot Reload) for creating Desktop applications.
